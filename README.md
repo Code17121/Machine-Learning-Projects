@@ -1,1 +1,1 @@
-# MLP_IITM
+# This repo contains all the academic and non academic machine learning assignment
